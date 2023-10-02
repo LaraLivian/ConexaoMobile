@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Dela+Gothic+One&family=Oswald&display=swap');
+
+body{
+   background-image: url(./assets/images/backteste.png);
+   background-size:cover;
+    color: aliceblue;
+    font-family: 'Courier New', Courier, monospace;
+    font-family: 'Dela Gothic One', cursive;
+   
+}
+
+#btn-start{
+    padding: 5px 20px;
+    font-size: 16px;
+    color: white;
+    background-color: rgba(24, 126, 126, 0.836);
+    background-position: left;
+    border: none;
+    border-radius: 5px;
+
+}
+
+#input {
+    background-color: rgba(179, 179, 179, 0.507);
+    border: 2px solid; color: rgba(0, 0, 0, 0.63);
+    width: 250px;
+    height: 25px;
+    border-radius: 5px;
+}
+#lala{
+    background-color: rgba(179, 179, 179, 0.507);
+    border: 2px solid; color: rgba(0, 0, 0, 0.63);
+    width: 250px;
+    height: 25px;
+    border-radius: 5px;
+ 
+}
+#gif{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-left: 700px; /* Ajuste o valor conforme necessário para mover a imagem para a direita */
+    margin-top: -250px;
+    
+}
