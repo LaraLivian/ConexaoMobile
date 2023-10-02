@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Dela+Gothic+One&family=Oswald&display=swap');
 
 body{
-   background-image: url(./assets/images/backteste.png);
+   background-image: url(backteste.png);
    background-size:cover;
     color: aliceblue;
     font-family: 'Courier New', Courier, monospace;
